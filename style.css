@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body{
+    font-family: 'Caveat', cursive;
+}
+
+:root {--primary-color :yellow;}
+:root {--secondery-color :#fefce8}
+
+.h1-top{
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.text-area{
+    margin: auto;
+    border-radius: 1rem;
+    font-size:larger;
+    font-weight: bold;
+    background-color: var(--secondery-color);
+    font-family: 'Caveat', cursive;
+}
+
+.button-styl {
+    margin: auto;
+    padding: 0.5rem;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Caveat', cursive; ;
+    background-color:var(--secondery-color);
+    border-radius: 0.5rem;
+}
+
+.div-1 {
+    font-size:x-large;
+    font-weight: bolder;
+    padding: 1rem;
+}
+
+.div-2 {
+    margin: auto;
+    border-radius: 1rem;
+    font-size: large;
+    background-color: var(--secondery-color);
+    align-self: center;
+}
+
