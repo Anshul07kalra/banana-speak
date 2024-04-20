@@ -3,7 +3,7 @@
 body{
     font-family: 'Caveat', cursive;
 }
-
+       
 :root {--primary-color :yellow;}
 :root {--secondery-color :#fefce8}
 
@@ -37,14 +37,13 @@ body{
     font-size:x-large;
     font-weight: bolder;
     padding: 1rem;
+    text-align: center;
 }
 
 .div-2 {
-    margin: auto;
     border-radius: 1rem;
     font-size: large;
     background-color: var(--secondery-color);
-    align-self: center;
 }
 
 .btn {
