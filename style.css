@@ -29,8 +29,9 @@ body{
     font-weight: bold;
     font-size: large;
     font-family:'Caveat', cursive; ;
-    background-color:var(--secondery-color);
+    background-color:var(--primary-color);
     border-radius: 0.5rem;
+    color: white;
 }
 
 .div-1 {
@@ -50,4 +51,5 @@ body{
 text-align: center ;
 padding: 1rem;
 }
+
 
